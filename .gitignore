@@ -14,3 +14,5 @@ testdata/opencart_logindata.xlsx
 /playwright/.auth/
 .DS_Store
 desktop.ini
+# Playwright CLI output (may contain credentials)
+.playwright-cli/
